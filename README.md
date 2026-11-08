@@ -53,20 +53,32 @@ I also build the firm's compliance tooling: checkers that review public copy aga
 
 ## 🍲 After hours: a game about Bhima the cook
 
-A cooking and deckbuilding roguelike set in the Mahabharata's hidden year, when Bhima disguises himself as Ballava, cook to the court of King Virata. I write the systems and the story; my partner does the art, the music, and the recipes. It will be **completely free to play**.
+<img src="assets/game-poster.webp" align="right" width="230" alt="Key art for Trayodasha: The Hidden Year. Bhima holds a cook's ladle under a moonlit tree with weapons hidden in its branches, surrounded by five companions in their disguises: one with dice, one with a water pot, one with a drum, one with rope and a cow, one with a horse. A palace glows in the distance. Drawn like a 1970s Indian mythological comic." />
+
+It's the last year of the Pandavas' exile, the [hidden year of the Virata Parva](https://en.wikipedia.org/wiki/Virata_Parva): if anyone recognises them, they go back to the forest for another twelve. So Bhima, the strongest man alive, hides in plain sight as **Ballava, the palace cook** of King Virata.
+
+Lay low and do your job. **By morning** you cook for the court from a pantry deck, and a good meal keeps eyes off you. **By afternoon** you wrestle in the king's arena, winning without ever showing what you really are. **By night** you go into the dreams and fight demons with everything you held back all day.
+
+It's a roguelite deckbuilder with three decks woven into one year, and a story that runs through all of it. It's drawn like the 1970s Indian mythological comics many of us grew up reading, and it will be **completely free to play**.
+
+<img src="assets/game-stats.webp" width="100%" alt="The game so far: 227 cards across three decks, 25 recipes to discover, 90+ foes by day and by night, 9 realms of the night, and 365 playable days in one year." />
 
 <table>
   <tr>
-    <td width="33%"><img src="assets/game-ranga_court.webp" width="100%" alt="Comic-style art of Bhima lifting a wrestler overhead in an arena as King Virata and a crowd watch" /></td>
     <td width="33%"><img src="assets/game-paka_kitchen.webp" width="100%" alt="Comic-style art of Bhima stirring a giant cauldron in the palace kitchen as helpers bring vegetables" /></td>
+    <td width="33%"><img src="assets/game-ranga_court.webp" width="100%" alt="Comic-style art of Bhima lifting a wrestler overhead in an arena as King Virata and a crowd watch" /></td>
     <td width="33%"><img src="assets/game-maya_night.webp" width="100%" alt="Comic-style art of Bhima swinging a golden mace at a green demon under a full moon" /></td>
   </tr>
   <tr>
-    <td align="center"><sub><b>Morning:</b> the arena</sub></td>
-    <td align="center"><sub><b>Evening:</b> the kitchen</sub></td>
+    <td align="center"><sub><b>Morning:</b> the kitchen</sub></td>
+    <td align="center"><sub><b>Afternoon:</b> the arena</sub></td>
     <td align="center"><sub><b>Night:</b> the dreams</sub></td>
   </tr>
 </table>
+
+<img src="assets/game-court.webp" width="100%" alt="The court of Virata: the king, and the royals hiding in his court. Character portraits of Virata the king; Kanka, who is Yudhishthira, holding dice; Brihannala, who is Arjuna, as a dance teacher; Sairindhri, who is Draupadi, holding a water pot; Granthika, who is Nakula, with a horse brush and reins; and Tantipala, who is Sahadeva, a cowherd with a staff and bell." />
+
+<img src="assets/game-gods.webp" width="100%" alt="By night, nine gods to call on: portraits of Agni, Durga, Hanuman, Indra, Prithvi, Surya, Varuna, Vayu and Yama, each with a golden halo on black." />
 
 ## 🧰 Stack
 
