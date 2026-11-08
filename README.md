@@ -76,7 +76,7 @@ It's a roguelite deckbuilder with three decks woven into one year, and a story t
   </tr>
 </table>
 
-<img src="assets/game-court.webp" width="100%" alt="The court of Virata: the king, and the royals hiding in his court. Character portraits of Virata the king; Kanka, who is Yudhishthira, holding dice; Brihannala, who is Arjuna, as a dance teacher; Sairindhri, who is Draupadi, holding a water pot; Granthika, who is Nakula, with a horse brush and reins; and Tantipala, who is Sahadeva, a cowherd with a staff and bell." />
+<img src="assets/game-court.webp" width="100%" alt="The court of Virata: the king, and the royals hiding in his court. Character portraits of Virata, the king; Kanka, the king's dice companion, holding dice; Brihannala, the dance teacher; Sairindhri, the queen's maid, holding a water pot; Granthika, keeper of horses, with a brush and reins; and Tantipala, keeper of cattle, with a staff and bell." />
 
 <img src="assets/game-gods.webp" width="100%" alt="By night, nine gods to call on: portraits of Agni, Durga, Hanuman, Indra, Prithvi, Surya, Varuna, Vayu and Yama, each with a golden halo on black." />
 
