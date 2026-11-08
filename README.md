@@ -1,22 +1,100 @@
-### Hi, I'm Aneesh 👋
+<a href="https://aneeshmelkot.com">
+  <img src="assets/banner.webp" width="100%" alt="Aneesh Melkot, Engineering Lead at Longboard in Austin, Texas. I build software you get to keep, and I'm writing a game on the side. AI coworkers, trading systems, and a Mahabharata game. Comic-style illustration of Aneesh coding at two monitors at night." />
+</a>
 
-I build AI coworkers and agentic systems: software that does real work, not just chat. Right now that's **[Kortny](https://github.com/boffti/kortny)**, a self-hosted, Slack-native AI coworker that turns messages into durable tasks and runs them end to end: writing and executing code in a sandbox, remembering how your team works, and showing every step and every cent. I also work where applied LLMs meet markets: I'm **Engineering Lead at Longboard Asset Management**, where I build the firm's complex trading systems solo.
-
-- 🔭 Building **[Kortny](https://github.com/boffti/kortny)** - a self-hosted Slack AI coworker (open source)
-- 🧠 Focused on **AI agents, applied LLMs, and the MCP / tool-use ecosystem**
-- 📈 **Engineering Lead @ [Longboard Asset Management](https://longboardfunds.com/)** - building complex trading systems solo; fintech side projects like **[deepdiver](https://github.com/boffti/deepdiver)** (2,100+ stocks scored on technical and fundamental factors)
-- 🛠️ Mostly **Python** and **TypeScript**; day to day with LLMs, Google ADK, MCP, FastAPI, Postgres, and Docker
-- 📍 Austin, TX
-
-<p align="left">
-  <a href="https://linktr.ee/aneeshmelkot"><img src="https://img.shields.io/badge/-Links-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Links"></a>
-  <a href="mailto:boffti@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/boffti/kortny"><img src="https://img.shields.io/badge/-Kortny-181717?style=flat-square&logo=github&logoColor=white" alt="Kortny"></a>
+<p align="center">
+  <a href="https://aneeshmelkot.com"><img src="https://img.shields.io/badge/aneeshmelkot.com-2A3990?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: aneeshmelkot.com" /></a>
+  <a href="mailto:boffti@gmail.com"><img src="https://img.shields.io/badge/Email_me-E2A11B?style=for-the-badge&logo=gmail&logoColor=1B1D33" alt="Email boffti@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/aneeshmelkot"><img src="https://img.shields.io/badge/LinkedIn-1B1D33?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: aneeshmelkot" /></a>
+  <a href="https://www.matangilabs.com/"><img src="https://img.shields.io/badge/Matangi_Labs-2A3990?style=for-the-badge" alt="Matangi Labs" /></a>
+  <a href="https://linktr.ee/aneeshmelkot"><img src="https://img.shields.io/badge/Linktree-1B1D33?style=for-the-badge&logo=linktree&logoColor=white" alt="All links on Linktree" /></a>
 </p>
 
+I build AI coworkers and the systems that run a trading desk. Most of what I make in my own time is **open source, self-hosted, and yours to run**: your machine, your keys, your data. By day I'm the one-person engineering team behind **[Longboard Asset Management](https://longboardfunds.com/)**'s trading systems. After hours I'm writing a game about Bhima the cook. Independent work ships under **[Matangi Labs](https://www.matangilabs.com/)**.
+
+## 🛠️ What I'm building
+
+<p align="center">
+  <a href="https://github.com/matangilabs/kortny"><img src="assets/card-kortny.webp" width="49%" alt="Kortny, an AI coworker: lives in your Slack, runs on your servers, and shows every step and every cent. Self-hosted, bring your own model, free forever. Mock-up of a Slack thread where Kortny plans the work, queries data, runs code in a sandbox and posts a chart." /></a>
+  <a href="https://github.com/boffti/starwire"><img src="assets/card-starwire.webp" width="49%" alt="Starwire, for discovery: open-source repos worth a look, gathered from across the web. Auto-curated and refreshed every 48 hours at starwire.foo. Mock-up of a weekly list of trending repos." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/boffti/stardash"><img src="assets/card-stardash.webp" width="49%" alt="StarDash, for your GitHub stars: you star repos and forget them; StarDash remembers and tells you what to look at next. One Docker command, SQLite, MCP server. Mock-up of a grid of starred repos with two picks highlighted." /></a>
+  <a href="https://github.com/boffti/whetstone"><img src="assets/card-whetstone.webp" width="49%" alt="Whetstone, for practice: a practice space built around your own work, where your AI writes the problems and real tests grade them. Mock-up of a drill with passing and failing tests and an interviewer question." /></a>
+</p>
+
+<p align="center"><sub>Try them: <a href="https://kortny.dev">kortny.dev</a> · <a href="https://starwire.foo">starwire.foo</a> · <a href="https://stardash.dev">stardash.dev</a> · <a href="https://github.com/boffti/whetstone">whetstone</a> · live stars in the pins below</sub></p>
+
+## 📈 By day: I am Longboard's engineering department
+
+[Longboard Asset Management](https://longboardfunds.com/) runs a systematic, trend-following mutual fund, and I'm its entire technology team: architect, engineer, DevOps, data and on-call, effectively the firm's CTO. Every trade the fund places is generated by a system I run, on infrastructure I built, and nobody else gets paged.
+
+> [!IMPORTANT]
+> **What's at stake.** This isn't a dashboard going red. If the overnight run is late, the fund doesn't trade. If a position or a cost basis is wrong, it's investors' money and a regulated record that's wrong. The job is to be right, on time, every trading day.
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Trade generation</b><br><sub>The platform that turns market data into each day's trades.</sub></td>
+    <td width="50%" valign="top"><b>Data and reconciliation</b><br><sub>Keeping the books in step with custodians and brokers.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Infrastructure</b><br><sub>The cloud it all runs on, built and managed as code.</sub></td>
+    <td width="50%" valign="top"><b>AI in operations</b><br><sub>Read-only AI access to firm data, so the team gets answers it can trust.</sub></td>
+  </tr>
+</table>
+
+I also build the firm's compliance tooling: checkers that review public copy against SEC and FINRA advertising rules before it reaches a human reviewer. On the research side, I'm studying how a rules-based trend follower should get back in after a crash, a question the published research has mostly left open.
+
+## 🍲 After hours: a game about Bhima the cook
+
+A cooking and deckbuilding roguelike set in the Mahabharata's hidden year, when Bhima disguises himself as Ballava, cook to the court of King Virata. I write the systems and the story; my partner does the art, the music, and the recipes. It will be **completely free to play**.
+
+<table>
+  <tr>
+    <td width="33%"><img src="assets/game-ranga_court.webp" width="100%" alt="Comic-style art of Bhima lifting a wrestler overhead in an arena as King Virata and a crowd watch" /></td>
+    <td width="33%"><img src="assets/game-paka_kitchen.webp" width="100%" alt="Comic-style art of Bhima stirring a giant cauldron in the palace kitchen as helpers bring vegetables" /></td>
+    <td width="33%"><img src="assets/game-maya_night.webp" width="100%" alt="Comic-style art of Bhima swinging a golden mace at a green demon under a full moon" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Morning:</b> the arena</sub></td>
+    <td align="center"><sub><b>Evening:</b> the kitchen</sub></td>
+    <td align="center"><sub><b>Night:</b> the dreams</sub></td>
+  </tr>
+</table>
+
+## 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,django,fastapi,postgres,docker,aws,terraform,unity,cs,threejs&perline=11" alt="Python, TypeScript, Django, FastAPI, Postgres, Docker, AWS, Terraform, Unity, C#, Three.js" />
+</p>
+
+Plus Celery, MCP, Google ADK, LiteLLM, Slack Bolt, n8n and Typst.
+
 <details>
-  <summary>GitHub stats</summary>
+  <summary><b>How I like to work</b></summary>
   <br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=boffti&show_icons=true&hide_border=true&theme=github_dark" alt="Aneesh's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boffti&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+
+- **The smallest change that works.** Fewer files, fewer dependencies, a shorter diff. Simple code reads as intent.
+- **Verify, then claim.** Nothing ships until someone has watched it work. In AI systems, checking the answer beats fetching more context.
+- **If it needs a lesson, it's a defect.** Legibility beats elegance, in a game mechanic or an admin page.
+- **Evals, not vibes.** A prompt that is patched every week needs a test suite, not another patch.
+- **Own the stack.** Self-hosted, bring your own model, and no company that can take it away from you.
+- **Plain words on buttons.** Systems can have beautiful names. The button still says what it does.
+
 </details>
+
+<details>
+  <summary><b>I also write about psychology, seen by an engineer</b></summary>
+  <br>
+
+- [Aggression and operant conditioning in video games](https://psyc6300.blogspot.com/2022/06/aggression-and-operant-conditioning-in.html)
+- [Internet addiction and ethics](https://psyc6300.blogspot.com/2022/07/internet-addiction-and-ethics-from-lens.html)
+- [Cognitive biases in e-commerce](https://psyc6300.blogspot.com/2022/07/cognitive-biases-in-e-commerce-from.html)
+- [Personas: psychology in UI design](https://psyc6300.blogspot.com/2022/06/correlation-of-psychology-with-software.html)
+- [Social engineering: hacking humans](https://psyc6300.blogspot.com/2022/06/social-engineering-in-psychology.html)
+
+</details>
+
+---
+
+<p align="center"><b>Building something with agents, markets, or myths?</b> <a href="mailto:boffti@gmail.com">Write to me.</a></p>
